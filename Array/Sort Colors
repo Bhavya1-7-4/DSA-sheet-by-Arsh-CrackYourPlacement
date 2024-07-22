@@ -1,0 +1,9 @@
+Link: https://leetcode.com/problems/sort-colors/
+
+Solution:
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        return sort(nums.begin(),nums.end());
+    }
+};
